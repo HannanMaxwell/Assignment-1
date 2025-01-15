@@ -26,3 +26,10 @@ Changes not staged for commit:
         modified:   README.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
+## Purpose of the following Commands:
+
+- `mkdir`: This command makes a new directory.
+- `cd`: This command changes the directory to the desired one.
+- `code`: This command opens the default text editor installed.
+- `ls`: This command lists all the files and directories in the current directory.
