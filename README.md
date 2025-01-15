@@ -33,3 +33,12 @@ no changes added to commit (use "git add" and/or "git commit -a")
 - `cd`: This command changes the directory to the desired one.
 - `code`: This command opens the default text editor installed.
 - `ls`: This command lists all the files and directories in the current directory.
+
+## Why Version Control is Important
+
+With version control, it is possible to:
+
+-back up files and reverting back to older versions of the files if needed.
+-merge different changes which were made by different people.
+-branch the main project to multiple branches which allows for different people to work on them and then later they can merge the branches back into the main project.
+-track changes made to the files, allowing for reverting back to the old version of a file if needed.
