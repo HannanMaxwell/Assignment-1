@@ -40,5 +40,37 @@ With version control, it is possible to:
 
 -back up files and reverting back to older versions of the files if needed.
 -merge different changes which were made by different people.
--branch the main project to multiple branches which allows for different people to work on them and then later they can merge the branches back into the main project.
+-branch the main project to multiple branches which allows for different 
+ people to work on them and then later they can merge the branches back into the main project.
 -track changes made to the files, allowing for reverting back to the old version of a file if needed.
+
+## Purpose of the following Git Commands
+
+- `git init`: Initializes or creates a new repository.
+
+- `git status`: Displays the status of the directory/repository. 
+                Any changes made to the files would be displayed.
+
+- `git add`: This command adds a file/files to the staging area 
+             where they are ready for commiting.
+
+- `git commit`: This command will record all of the changes made 
+                during the staging area and will allow us to write a message describing 
+                on what changes were made to the files.
+
+- `git push`: Git push, pushes the any changes made
+              to the files or directories from the 
+              local repository to the remote repository.
+
+- `git pull`: Git pulls any changes made to the
+              directories or files from the remote
+              repository to the local repository.
+
+- `git log`: This command displays all the commits
+             that were made.
+
+- `git branch`: This command creates a new branch.
+
+- `git merge`: Git merge, merges all the branches into one branch.
+
+- `git checkout`: Git checkout is used to change to a different branch.
