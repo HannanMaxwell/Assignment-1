@@ -74,3 +74,12 @@ With version control, it is possible to:
 - `git merge`: Git merge, merges all the branches into one branch.
 
 - `git checkout`: Git checkout is used to change to a different branch.
+
+## My Unique Touch
+
+There are things that set me apart from others:
+
+-I'm confident.
+-I understand people on a deeper level.
+-People often say I make friends easily (social.)
+-I'm an honest person.
