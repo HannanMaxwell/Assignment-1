@@ -39,9 +39,12 @@ no changes added to commit (use "git add" and/or "git commit -a")
 With version control, it is possible to:
 
 -back up files and reverting back to older versions of the files if needed.
+
 -merge different changes which were made by different people.
+
 -branch the main project to multiple branches which allows for different 
  people to work on them and then later they can merge the branches back into the main project.
+
 -track changes made to the files, allowing for reverting back to the old version of a file if needed.
 
 ## Purpose of the following Git Commands
@@ -80,6 +83,9 @@ With version control, it is possible to:
 There are things that set me apart from others:
 
 -I'm confident.
+
 -I understand people on a deeper level.
+
 -People often say I make friends easily (social.)
+
 -I'm an honest person.
